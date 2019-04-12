@@ -1,2 +1,2 @@
-add_lunch_combo omni_DRG-eng
+add_lunch_combo omni_B2N-eng
 

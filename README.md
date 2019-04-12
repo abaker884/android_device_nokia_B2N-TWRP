@@ -1,23 +1,20 @@
- Nokia 6.1 plus (codenamed _"DRG"_) are high-end mid-range smartphones from Nokia.
+ Nokia 7 plus (codenamed _"B2N"_) are high-end mid-range smartphones from Nokia.
 
-Nokia 6.1 Plus was announced and released in july 2018.
+Nokia 7 Plus was announced and released in march 2018.
 
 ## Device specifications
 
-| Device       |   Nokia 6.1 plus                                |
+| Device       |   Nokia 7 plus                                  |
 | -----------: | :---------------------------------------------- |
-| SoC          | Qualcomm SDM660 Snapdragon 636                  |
+| SoC          | Qualcomm SDM660 Snapdragon 660                  |
 | CPU          | 8x Qualcomm® Kryo™ 260 up to 1.8GHz             |
-| GPU          | Adreno 509                                      |
+| GPU          | Adreno 512                                      |
 | Memory       | 4GB                                             |
 | Shipped Android version | 8.1.0                                |
 | Storage      | 64GB eMMC 5.1 flash storage                     |
-| Battery      | Non-removable Li-Po 3000 mAh                    |
-| Dimensions   | 158.6 x 75.4 x 8.05 mm                          |
-| Display      | 2160 x 1080 (18:9), 5.99 inch                   |
+| Battery      | Non-removable Li-Po 3800 mAh                    |
 
 
 How to build
 
-. build/envsetup.sh && lunch omni_DRG-eng && make -j32 recoveryimage
-
+. build/envsetup.sh && lunch omni_B2N-eng && make -j32 recoveryimage
